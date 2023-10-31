@@ -13,6 +13,7 @@ public class HealthyBurger extends BaseBurger {
         System.out.println("Ketchup");
         additions.add(7);
         System.out.println("Salad Cream");
+        // integrante 3
         additions.add(8);
         System.out.println("Mayonnaise");
 
